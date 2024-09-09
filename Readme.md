@@ -23,16 +23,24 @@ Step-4 => Next => Next
 
 ---
 
-## Mssql SSMS
+## Who Am I =>
 ```sh
+Terminal => whoami =>
+
+whoami
+desktop-kkkct9q\ozged
 
 ```
 
 ---
 
 
-## Mssql SSMS
+## Mssql SSMS Server Name
 ```sh
+Server Name : .
+Server Name : local
+Server Name : localhost
+
 
 ```
 
